@@ -25,7 +25,7 @@ src/
     └── PresSpringAnnotation.java # Spring Annotation
 ```
 
-## 🔧 Fonctionnement
+##  Fonctionnement
 
 ### 1. Couche DAO
 ```java
